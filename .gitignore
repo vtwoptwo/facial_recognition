@@ -1,0 +1,16 @@
+eigenface/example/eigenfaces/Labels
+eigenface/example/eigenfaces/Videos
+eigenface/example/eigenfaces/Photos
+eigenface/example/eigenfaces/photos_cleaned
+
+*.ipynb_checkpoints
+*.pyc
+Videos/
+/Photos
+/Labels
+.DS_Store
+.venv/
+data/
+__pycache__/
+application/
+training_checkpoints/
